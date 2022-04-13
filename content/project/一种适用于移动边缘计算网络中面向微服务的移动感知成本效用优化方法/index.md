@@ -1,5 +1,5 @@
 ---
-title: example
+title: 一种适用于移动边缘计算网络中面向微服务的移动感知成本效用优化方法
 summary: 专利号：CN202111169754.6
 tags:
 - Mobile Edge Computing
