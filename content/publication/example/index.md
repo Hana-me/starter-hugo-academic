@@ -45,7 +45,7 @@ abstract: "Mobile Edge Computing (MEC) sinks computation
   and maximize the long-term network utility while ensuring the
 
   stability of service migration cost."
-slides: example
+#slides: example
 url_pdf: ""
 publication_types:
   - "2"
@@ -69,8 +69,8 @@ title: Dynamic Service Migration and Request Routing for Microservice in
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+#projects:
+#- example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
@@ -90,4 +90,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
