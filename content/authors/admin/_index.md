@@ -29,7 +29,7 @@ education:
     - course: PhD in computer science
       institution: Northeastern University
       year: 2020
-    - course: MEng in Artificial Intelligence
+    - course: MEng in computer science
       institution: Northeastern University
       year: 2016
 email: ""
