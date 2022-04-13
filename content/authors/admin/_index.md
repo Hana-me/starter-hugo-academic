@@ -39,4 +39,4 @@ highlight_name: true
 She received the M.S. degree in computer science from Northeastern University, Shenyang, China, in 2019. She is currently pursuing the Ph.D.
 degree in computer science at Northeastern University, Shenyang, China. Her research interests include mobile edge computing, network function virtualization, and software-defined networking, etc.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download mymy {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
