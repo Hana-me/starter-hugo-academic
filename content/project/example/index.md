@@ -1,6 +1,6 @@
 ---
 title: examplee
-summary: 专利号：CN202111169754.6666
+summary: 专利号：CN202111169754.6
 tags:
 - Mobile Edge Computing
 date: "2016-04-27T00:00:00Z"
