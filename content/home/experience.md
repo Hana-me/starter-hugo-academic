@@ -25,7 +25,7 @@ experience:
   - title: PhD of computer science
     company: NorthEast University
     company_url: ''
-    company_logo: org-gc
+    company_logo: neu
     location: Shenyang,China
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: postgraduate of computersicence
     company: NorthEast University
     company_url: ''
-    company_logo: org-x
+    company_logo: neu
     location: ShenYang,China
     date_start: '2016-01-01'
     date_end: '2020-12-31'
