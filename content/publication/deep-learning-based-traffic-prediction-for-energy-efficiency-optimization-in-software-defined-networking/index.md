@@ -1,82 +1,53 @@
 ---
-abstract: "Mobile Edge Computing (MEC) sinks computation
-
-  and storage capacities to network edge, where it is close to users
-
-  to support delay-sensitive services. However, due to the dynamic
-
-  and stochastic properties of MEC networks, the deployed services
-
-  may be frequently migrated among edge servers to follow the
-
-  mobility of users, which greatly increases the network operational
-
-  cost. In this paper, considering the service migration cost brought
-
-  by user mobility, we study the joint optimization problem of
-
-  service deployment and request routing decisions to maximize the
-
-  long-term network utility of MEC networks. Firstly, we propose a
-
-  Lyapunov optimization-based online service migration algorithm
-
-  to decompose the continuous optimization problem into a number
-
-  of one-slot online optimization problems. Then, to address the
-
-  NP-hard issue of one-slot optimization, we use a randomized
-
-  rounding technique to implement service migration and request
-
-  routing. Furthermore, through a closed-form theoretical analysis,
-
-  we prove that the proposed algorithm not only greatly meets the
-
-  local user requests and enables approximate performance guar\x02antees, but
-  also adaptively balances the service migration cost
-
-  and system performance online. Finally, extensive simulations are
-
-  conducted, which demonstrate that our algorithm can efficiently
-
-  utilize the storage and computation resources of edge servers,
-
-  and maximize the long-term network utility while ensuring the
-
-  stability of service migration cost."
-#slides: example
+abstract: Extensive redundant links and dedicated network components are
+  deployed in existing networks to avoid network congestion caused by peak
+  traffic. These network components are underutilized, leading to an extreme
+  waste of electrical energy and negative environmental consequences. Most
+  energy efficiency schemes have little consideration of the subsequent traffic
+  load as well as the impact of energy saving on network performance, which
+  brings many challenges, such as frequent flow rerouting, continual device
+  state transition, and network load imbalance. In this article, we propose an
+  energy efficiency optimization framework based on traffic prediction in
+  software-defined networking, aiming at reducing network energy consumption
+  while ensuring communication quality. First, we design a real-time traffic
+  prediction mechanism based on gated recurrent unit neural network of deep
+  learning to capture the temporal characteristics of network traffic and
+  provide data basis for the deployment of energy-saving strategies. Second, we
+  propose a heuristic algorithm for energy efficiency optimization to balance
+  flow demand and energy consumption and to achieve dynamic load balancing and
+  energy saving. Finally, simulation is carried out through Ryu controller,
+  Mininet, and TensorFlow. Experimental results show that our algorithm achieves
+  about 47.71% reduction in terms of the overall energy consumption with good
+  network load balancing.
 url_pdf: ""
+title: Deep Learning-Based Traffic Prediction for Energy Efficiency Optimization
+  in Software-Defined Networking
 publication_types:
   - "2"
 authors:
   - admin
-  - Yuanguo Bi
-author_notes: []
-publication: In *IEEE Internet of Things Journal*
-summary: Mobile Edge Computing (MEC) sinks computation and storage capacities to
-  network edge, where it is close to users to support delay-sensitive services.
-  However, due to the dynamic and stochastic properties of MEC networks, the
-  deployed services may be frequently migrated among edge servers to follow the
-  mobility of users, which greatly increases the network operational cost.
+  - Xingwei Wang
+summary: Extensive redundant links and dedicated network components are deployed
+  in existing networks to avoid network congestion caused by peak traffic. These
+  network components are underutilized, leading to an extreme waste of
+  electrical energy and negative environmental consequences.
 url_dataset: ""
 url_project: ""
-publication_short: In *IoT*
+publication_short: In *SJ*
 url_source: ""
 url_video: ""
-title: deep-learning-based-traffic-prediction-for-energy-efficiency-optimization-in-software-defined-networking
+author_notes: []
 doi: ""
+publication: In *IEEE Systems Journal *
 featured: true
 tags: []
-#projects:
-#- example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
