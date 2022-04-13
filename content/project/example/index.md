@@ -1,5 +1,5 @@
 ---
-title: example
+title: examplee
 summary: 专利号：CN202111169754.6
 tags:
 - Mobile Edge Computing
