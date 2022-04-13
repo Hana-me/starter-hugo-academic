@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 一种适用于移动边缘计算网络中面向微服务的移动感知成本效用优化
+summary: 专利.
 tags:
 - Mobile Edge Computing
 date: "2016-04-27T00:00:00Z"
