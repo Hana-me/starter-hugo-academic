@@ -1,6 +1,6 @@
 ---
 title: Chen Xiangyi
-role: Phd of Mobile Edge Computing
+role: Phd of computer science
 bio: My research interests include mobile edge computing.
 interests:
   - Artificial Intelligence
