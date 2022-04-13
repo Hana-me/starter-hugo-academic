@@ -64,8 +64,7 @@ url_project: ""
 publication_short: In *IoT*
 url_source: ""
 url_video: ""
-title: Dynamic Service Migration and Request Routing for Microservice in
-  Multi-cell Mobile Edge Computing
+title: deep-learning-based-traffic-prediction-for-energy-efficiency-optimization-in-software-defined-networking
 doi: ""
 featured: true
 tags: []
