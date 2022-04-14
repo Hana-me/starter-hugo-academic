@@ -23,8 +23,10 @@ design:
   view: citation
   columns: "2"
 ---
-<https://translate.google.cn/>
+
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+[Google Scholar](https://translate.google.cn/)
