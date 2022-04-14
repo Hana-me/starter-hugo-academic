@@ -1,7 +1,7 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Guide: 
+# Documentation: 
+# This file is formatted using YAML syntax - learn more at 
 
 # Appearance
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 
     content_dir: content
     branch: master
   avatar:
@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: 
     algolia:
       app_id: ''
       api_key: ''
