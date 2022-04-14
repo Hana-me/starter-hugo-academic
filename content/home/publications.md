@@ -26,7 +26,6 @@ design:
 
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
 learn more by [Google Scholar](https://translate.google.cn/)
 {{% /callout %}}
 
