@@ -29,6 +29,5 @@ design:
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-{{% callout note %}}
 learn more by [Google Scholar](https://translate.google.cn/)
-{{% /callout%}}
+
